@@ -37,6 +37,7 @@ Python
         - Removing duplicates
     
 Using pandas
+
     - What is pandas?
     - Dataframes
     - head()
