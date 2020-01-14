@@ -1,0 +1,8 @@
+/bin
+/etc
+/include
+/lib
+/share
+.Python
+.DS_Store
+.ipynb_checkpoints/
