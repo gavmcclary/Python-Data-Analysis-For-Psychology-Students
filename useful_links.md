@@ -1,5 +1,5 @@
 # Useful Links
-Some useful links for further sudy into data anakysis with Python.
+Some useful links for further study into data analysis with Python.
 
 ## Jupyter Notebook
 https://realpython.com/jupyter-notebook-introduction/

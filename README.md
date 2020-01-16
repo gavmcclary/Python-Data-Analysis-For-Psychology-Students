@@ -21,12 +21,14 @@ Python
     - Lists
         - Indexing
         - Slicing
-        - Dictionaries
+        - Sorting
+
     - Dictionaries
         - Keys
         - Values
         - Methods
         - Printing keys and values 
+        
     - Files
         - Opening files
         - Readlines
